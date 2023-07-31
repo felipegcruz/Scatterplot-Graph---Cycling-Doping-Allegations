@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 1. Clone the repository or download the project files.
 
 ```
-git clone https://github.com/fcruz1612/https://github.com/felipegcruz/Scatterplot-Graph---Cycling-Doping-Allegations
+git clone https://github.com/felipegcruz/https://github.com/felipegcruz/Scatterplot-Graph---Cycling-Doping-Allegations
 ```
 
 2. Navigate to the project directory.
